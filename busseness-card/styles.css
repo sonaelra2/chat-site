@@ -1,0 +1,88 @@
+body {
+    margin: 20px;
+    text-align: center;
+}
+.avatar {
+    width: 190px;
+    border-radius: 30px;
+}
+.card { 
+    width: 400px;
+   margin: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #370617;
+    color: #ffba08;
+    border-bottom: 6px solid #f48c06;
+    border-radius: 35px;
+    font-family: sans-serif;
+     box-shadow: 32px 30px #888888;
+}
+.border-blue {
+    border: 1px dotted blue;
+}
+input {
+    width: 50%;
+    padding: 10px;
+    width : 40pxpx;
+    height: 40px;
+    margin-top: 10px;
+    width: 400px;
+  }
+  textarea{
+    padding: 30px;
+    margin-top: 10px;
+    height: 200px;
+    width: 400px;
+  }
+  select{
+    padding: 10px;
+    width : 40pxpx;
+    height: 40px;
+    margin-top: 10px;
+    width: 400px;
+  }
+  .contaner{
+    display: block;
+    background-image: url(https://www.shutterstock.com/image-photo/image-wooden-table-front-abstract-600w-321651011.jpg);
+   margin: auto;
+    border: none;
+   width: 400px;
+   
+}
+button{
+    background-color: 78290f;
+    margin-top: 10px;
+    width: 200px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 10px 10px #888888;
+
+}
+.contact-pages{
+  margin-top: 20px;
+  height:30px;
+  background-image: url(https://image.benq.com/is/image/benqco/monitor-for-programmer-1?$ResponsivePreset$);
+  padding-top: 5px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+}
+.cont-doc{
+color: aliceblue;
+}
+.interdus-artical{
+  font-size: large;
+  margin-top: 50px;
+  background-color: #888888;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 20px;
+  font-size: 16px;
+}
+li{
+   list-style-type: square;
+}
+h1{
+  color:  #f48c06;
+}
